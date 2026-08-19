@@ -3,11 +3,6 @@
 <h3 align="center">
   Electrical & Computer Engineering @ UofT · Technology × Business
 </h3>
-
-<p align="center">
-  Building practical tools at the intersection of engineering, product, and business.
-</p>
-
 ---
 
 ## 🌷 About Me
