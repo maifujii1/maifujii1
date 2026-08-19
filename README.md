@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Mai! </h1>
+<h1 align="center">Hi, I'm Mai!</h1>
 
 <h3 align="center">
-  Electrical & Computer Engineering @ UofT · Technology × Business
+Electrical & Computer Engineering @ UofT · Technology × Business
 </h3>
----
 
 ## 🌷 About Me
 
