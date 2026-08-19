@@ -8,7 +8,6 @@ Electrical & Computer Engineering @ UofT · Technology × Business
 
 - 🎓 Electrical & Computer Engineering student at the **University of Toronto**
 - 💡 Interested in **technology, product, consulting, and fintech**
-- 🛠️ I enjoy turning messy real-world problems into practical tools
 - 🌱 Currently learning **C++**
 
 ---
