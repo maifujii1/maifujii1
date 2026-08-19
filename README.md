@@ -57,17 +57,6 @@ Tracks components, detects low-stock items, generates procurement recommendation
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maifujii1&layout=compact&theme=rose_pine&hide_border=true"
-    height="165"
-  />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p>
